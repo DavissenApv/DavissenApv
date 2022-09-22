@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davissen Appavoo</h1>
+<h1 align="center">Hi, 👋 I'm Davissen Appavoo</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/DavissenApv?tab=repositories](https://github.com/DavissenApv?tab=repositories)
